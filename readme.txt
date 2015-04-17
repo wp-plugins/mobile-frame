@@ -1,5 +1,5 @@
 === Mobile Frame ===
-Contributors: Roy Toledo
+Contributors: toledoroy
 Tags: mobile,responsive,images,display,frame,iphone,ipad,photos,screenshot
 Donate link: http://www.virtual-brick.com/project/mobile-frame/
 Requires at least: 3.2.0
